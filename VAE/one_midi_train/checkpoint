@@ -1,0 +1,6 @@
+model_checkpoint_path: "D:/PozaLabs/VAE/one_midi_train\\model.ckpt-80"
+all_model_checkpoint_paths: "D:/PozaLabs/VAE/one_midi_train\\model.ckpt-72"
+all_model_checkpoint_paths: "D:/PozaLabs/VAE/one_midi_train\\model.ckpt-74"
+all_model_checkpoint_paths: "D:/PozaLabs/VAE/one_midi_train\\model.ckpt-76"
+all_model_checkpoint_paths: "D:/PozaLabs/VAE/one_midi_train\\model.ckpt-78"
+all_model_checkpoint_paths: "D:/PozaLabs/VAE/one_midi_train\\model.ckpt-80"
